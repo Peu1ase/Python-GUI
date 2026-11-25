@@ -29,6 +29,3 @@ click(n)함수로 칸 입력
 절차지향 -> 객체지향으로 변화 (class로 묶기)
 state 딕셔너리 socre 변수를 전역변수로 선언
 boaed()함수 대신 self.board로 리스트로 바로 검사
-
-=기능 추가=
-7. gemini model을 이용해서 1인 게임으로도 가능하게 만들기
